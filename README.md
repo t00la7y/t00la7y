@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @t00la7y
-- 👀 I’m interested in Computer Programming and Web Development
+- 👀 I’m interested in Fromt End Development
 - 🌱 I’m currently learning the basics of my interest
-- 💞️ I’m looking to collaborate on any work in relation to Web development
+- 💞️ I’m looking to collaborate on any work in relation to Front End development
 - 📫 How to reach me? Search @t00la7y on any social...
-- 😄 Pronouns:...
+- 😄 Pronouns:He/him...
 - ⚡ Fun fact: t00la7y != lazy 
 
 <!---
